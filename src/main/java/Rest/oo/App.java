@@ -4,7 +4,7 @@ package Rest.oo;
  * Hello world!
  *
  */
-public class App extends class B
+public class App
 {
     public static void main( String[] args )
     {
